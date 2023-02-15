@@ -1,0 +1,15 @@
+/Users/jalinhenderson/Documents/Mis221/Labs/Lab4/mis-221-lab-4-jjhenderson2/bin/Debug/net6.0/mis-221-lab-4-jjhenderson2
+/Users/jalinhenderson/Documents/Mis221/Labs/Lab4/mis-221-lab-4-jjhenderson2/bin/Debug/net6.0/mis-221-lab-4-jjhenderson2.deps.json
+/Users/jalinhenderson/Documents/Mis221/Labs/Lab4/mis-221-lab-4-jjhenderson2/bin/Debug/net6.0/mis-221-lab-4-jjhenderson2.runtimeconfig.json
+/Users/jalinhenderson/Documents/Mis221/Labs/Lab4/mis-221-lab-4-jjhenderson2/bin/Debug/net6.0/mis-221-lab-4-jjhenderson2.dll
+/Users/jalinhenderson/Documents/Mis221/Labs/Lab4/mis-221-lab-4-jjhenderson2/bin/Debug/net6.0/mis-221-lab-4-jjhenderson2.pdb
+/Users/jalinhenderson/Documents/Mis221/Labs/Lab4/mis-221-lab-4-jjhenderson2/obj/Debug/net6.0/mis-221-lab-4-jjhenderson2.csproj.AssemblyReference.cache
+/Users/jalinhenderson/Documents/Mis221/Labs/Lab4/mis-221-lab-4-jjhenderson2/obj/Debug/net6.0/mis-221-lab-4-jjhenderson2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jalinhenderson/Documents/Mis221/Labs/Lab4/mis-221-lab-4-jjhenderson2/obj/Debug/net6.0/mis-221-lab-4-jjhenderson2.AssemblyInfoInputs.cache
+/Users/jalinhenderson/Documents/Mis221/Labs/Lab4/mis-221-lab-4-jjhenderson2/obj/Debug/net6.0/mis-221-lab-4-jjhenderson2.AssemblyInfo.cs
+/Users/jalinhenderson/Documents/Mis221/Labs/Lab4/mis-221-lab-4-jjhenderson2/obj/Debug/net6.0/mis-221-lab-4-jjhenderson2.csproj.CoreCompileInputs.cache
+/Users/jalinhenderson/Documents/Mis221/Labs/Lab4/mis-221-lab-4-jjhenderson2/obj/Debug/net6.0/mis-221-lab-4-jjhenderson2.dll
+/Users/jalinhenderson/Documents/Mis221/Labs/Lab4/mis-221-lab-4-jjhenderson2/obj/Debug/net6.0/refint/mis-221-lab-4-jjhenderson2.dll
+/Users/jalinhenderson/Documents/Mis221/Labs/Lab4/mis-221-lab-4-jjhenderson2/obj/Debug/net6.0/mis-221-lab-4-jjhenderson2.pdb
+/Users/jalinhenderson/Documents/Mis221/Labs/Lab4/mis-221-lab-4-jjhenderson2/obj/Debug/net6.0/mis-221-lab-4-jjhenderson2.genruntimeconfig.cache
+/Users/jalinhenderson/Documents/Mis221/Labs/Lab4/mis-221-lab-4-jjhenderson2/obj/Debug/net6.0/ref/mis-221-lab-4-jjhenderson2.dll
